@@ -45,6 +45,7 @@ body{
 
 .card{
     background-image: url(../img/sutlu-tatlilar-banner-1.jpg);
+    background-repeat: no-repeat;
     padding: 120px 0 30px 32px;
     border-radius: 12px;
     color: white;
