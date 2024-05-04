@@ -1,52 +1,37 @@
 const cards = document.querySelector(".cards");
-const details = document.querySelector(".details");
-const menuler = document.querySelector(".menuTatlilar");
-const menuKahveler = document.querySelector(".menuKahveler");
-
+const menuler = document.querySelector(".menuler");
 async function getItem(){
     const response = await fetch("assets/json/data.json");
     const data = await response.json()
     return data;
 }
 
+
 async function printItem(){
     const data = await getItem();
-    console.log(data.tatlilar);
-    data.tatlilar.forEach(tatli => {
+    console.log(data);
+
+    data.forEach((category) => { 
         menuler.innerHTML +=
         `
-                <div class="menu">
-                    <img src="${tatli.img}" alt="" class="photo">
-                    <div class="description">
-                        <div class="header-price">
-                            <h4>${tatli.name}</h4>
-                            <span>${tatli.price}</span>
-                        </div>
-                        <p>${tatli.description}</p>
+        
+<details class="details">
+            <summary class="summary">
+                <div class="cards">
+                    <div class="card">
+                        <h2 class="header-h2 ">${category.name}</h2>
                     </div>
                 </div>
-        </details>
-
-
+            </summary>          
+            ${category.urunler.map(urun => `<div class="menu"><img class="photo" src="${urun.img}" alt=""><div class="description"><div class="header-price"><div><h4>${urun.name}</h4><span>${urun.price}</span></div><p>${urun.description}</p></div></div>` )}
+</details>           
+    
         `
     });
-    data.sogukKahveler.forEach(coffee => {
-        menuKahveler.innerHTML += 
-        `
-                <div class="menu">
-                    <img src="${coffee.img}" alt="" class="photo">
-                    <div class="description">
-                        <div class="header-price">
-                            <h4>${coffee.name}</h4>
-                            <span>${coffee.price}</span>
-                        </div>
-                        <p>${coffee.description}</p>
-                    </div>
-                </div>
-
-        `
-    });
-
 }
-
 printItem();
+
+
+
+
+
