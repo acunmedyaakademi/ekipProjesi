@@ -29,7 +29,7 @@
                "description": "antep fıstıklı kek, karamel sos ve belçika çikolatalı mousse"
           }
      ],
-     "Soğuk Kahveler" : [
+     "soğukKahveler" : [
           {
                "id": 1,
                "name": "Ice Filtre Kahve",
@@ -58,6 +58,96 @@
                "price": 95,
                "description": "isteğe göre single veya double espresso üzerine isteğe göre 1 top dondurma"
           }
-]
+     ],
+     "bubbleKokteyller" : [
+          {
+               "id": 1,
+               "name": "Galaxy",
+               "img": "assets/img/galaxy.jpeg",
+               "price": 100,
+               "description":"yaban mersin aromalı"
+          },
+          {
+               "id": 2,
+               "name": "Bubble Tea Hibiscus",
+               "img": "assets/img/hibiscus.jpeg",
+               "price": 100,
+               "description":"hibiscus aromalı"
+          },
+          {
+               "id": 3,
+               "name": "Maria",
+               "img": "assets/img/ormanMeyve.jpeg",
+               "price": 100,
+               "description":"orman meyve aromalı"
+          },
+          {
+               "id": 4,
+               "name": "Zombie",
+               "img": "assets/img/yeşilElma.jpeg",
+               "price": 100,
+               "description":"yeşil elma aromalı"
+          }
+     ],
+     "sicakIcecekler" : [
+          {
+               "id": 1,
+               "name": "Bardak Çay",
+               "img": "assets/img/cay.jpeg",
+               "price": 25,
+               "description":"meşhur rize çayıyla demlenen siyah demlik çay"
+          },
+          {
+               "id": 2,
+               "name": "Kupa Çay",
+               "img": "assets/img/kupaCay.jpeg",
+               "price": 45,
+               "description":"meşhur rize çayıyla demlenen siyah demlik çay"
+          },
+          {
+               "id": 3,
+               "name": "Türk Kahvesi",
+               "img": "assets/img/tk.jpeg",
+               "price": 60,
+               "description":"eşsiz lezzetiyle "
+          },
+          {
+               "id": 4,
+               "name": "Dibek Kahvesi",
+               "img": "assets/img/dibek.jpeg",
+               "price": 65,
+               "description":"kendine has tadı ve aromasıyla"
+          },
+          {
+               "id": 5,
+               "name": "Menengiç Kahvesi",
+               "img": "assets/img/menengiç.jpeg",
+               "price": 65,
+               "description":"menengiç çekirdeklerinin vurucu lezzeti ile"
+          },
+          {
+               "id": 6,
+               "name": "Damla Sakızlı Türk Kahvesi",
+               "img": "assets/img/damlaSakızlı.jpeg",
+               "price": 65,
+               "description":"damla sakızı severlere özel"
+          },
+          {
+               "id": 7,
+               "name": "Sahlep",
+               "img": "assets/img/sahlep.jpeg",
+               "price": 75,
+               "description":"gerçek süt ile tam kıvamında"
+          },
+          {
+               "id": 8,
+               "name": "Sıcak Çikolata",
+               "img": "assets/img/sicakCikolata",
+               "price": 80,
+               "description":"belçika çikolatası ile orjinal kıvam"
+          }
+          
+          
+     ]
      
 }
