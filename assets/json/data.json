@@ -1,0 +1,63 @@
+{
+     "tatlilar" : [
+          {
+               "id": 1,
+               "name":"Meyveli Gusto",
+               "img":"assets/img/meyveliGusto.jpeg",
+               "price": 170,
+               "description": "magnolya kreması ve gusto bisküvisi çilek muz sütlü belçika çikolatası ve krep kırtığı"
+          },
+          {
+               "id": 2,
+               "name":"Dondurmalı Profiterol",
+               "img":"assets/img/dondurmalıProfiterol.jpeg",
+               "price": 170,
+               "description": "2 top profiterol içi krema yerine vanilyalı dondurma dolgulu ve sütlü belçika çikolatalı"
+          },
+          {
+               "id": 3,
+               "name":"Çilekli Tart",
+               "img":"assets/img/cilekliTart.jpeg",
+               "price": 145,
+               "description": "tart kurabiyesi, no.11 kreması çilek ve belçika çikolatası"
+          },
+          {
+               "id": 4,
+               "name":"Firuze",
+               "img":"assets/img/firuze.jpeg",
+               "price": 150,
+               "description": "antep fıstıklı kek, karamel sos ve belçika çikolatalı mousse"
+          }
+     ],
+     "Soğuk Kahveler" : [
+          {
+               "id": 1,
+               "name": "Ice Filtre Kahve",
+               "img": "assets/img/filtreKahve.jpeg",
+               "price": 90,
+               "description": "özel demlenmiş natural filtre kahve ve bol miktarda buz"
+          },
+          {
+               "id": 2,
+               "name": "Ice Americano",
+               "img": "assets/img/iceAmericano.jpeg",
+               "price": 95,
+               "description": "isteğe göre single veya double espresso, su ve bol miktarda buz"
+          },
+          {
+               "id": 3,
+               "name": "Ice Latte",
+               "img": "assets/img/iceLatte.jpeg",
+               "price": 100,
+               "description": "isteğe göre single veya double espresso, süt ve bol miktarda buz"
+          },
+          {
+               "id": 4,
+               "name": "Affogato",
+               "img": "assets/img/affogato.jpeg",
+               "price": 95,
+               "description": "isteğe göre single veya double espresso üzerine isteğe göre 1 top dondurma"
+          }
+]
+     
+}
