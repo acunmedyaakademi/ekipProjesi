@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Roboto;
+    background-color: rgb(124, 121, 121);
+}
+
+.container{
+    margin-block: 12px;
+    padding-inline: 52px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon{
+    width: 40px;
+}
+
+.logo{
+    width: 100px;
+    border-radius: 50%;
+    border: 6px solid purple;
+}
+
+.text{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-block-start: 12px;
+    color: white;
+    & > span{
+        font-size: 24px;
+        font-weight: 500;
+    }
+}
