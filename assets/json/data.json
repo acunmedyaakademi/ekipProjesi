@@ -5,6 +5,7 @@
           "urunler": [
                {
                     "id": 1,
+                    "category": "Tatlılar",
                     "name":"Meyveli Gusto",
                     "img":"assets/img/meyveliGusto.jpeg",
                     "price": 170,
@@ -12,6 +13,7 @@
                },
                {
                     "id": 2,
+                    "category": "Tatlılar",
                     "name":"Dondurmalı Profiterol",
                     "img":"assets/img/dondurmalıProfiterol.jpeg",
                     "price": 170,
@@ -19,6 +21,7 @@
                },
                {
                     "id": 3,
+                    "category": "Tatlılar",
                     "name":"Çilekli Tart",
                     "img":"assets/img/cilekliTart.jpeg",
                     "price": 145,
@@ -26,6 +29,7 @@
                },
                {
                     "id": 4,
+                    "category": "Tatlılar",
                     "name":"Firuze",
                     "img":"assets/img/firuze.jpeg",
                     "price": 150,
@@ -40,6 +44,7 @@
           "urunler": [
                {
                     "id": 1,
+                    "category": "Soğuk Kahveler",
                     "name": "Ice Filtre Kahve",
                     "img": "assets/img/filtreKahve.jpeg",
                     "price": 90,
@@ -47,6 +52,7 @@
                },
                {
                     "id": 2,
+                    "category": "Soğuk Kahveler",
                     "name": "Ice Americano",
                     "img": "assets/img/iceAmericano.jpeg",
                     "price": 95,
@@ -54,6 +60,7 @@
                },
                {
                     "id": 3,
+                    "category": "Soğuk Kahveler",
                     "name": "Ice Latte",
                     "img": "assets/img/iceLatte.jpeg",
                     "price": 100,
@@ -61,6 +68,7 @@
                },
                {
                     "id": 4,
+                    "category": "Soğuk Kahveler",
                     "name": "Affogato",
                     "img": "assets/img/affogato.jpeg",
                     "price": 95,
@@ -74,6 +82,7 @@
           "urunler": [
           {
                "id": 1,
+               "category": "Bubble Kokteyller",
                "name": "Galaxy",
                "img": "assets/img/galaxy.jpeg",
                "price": 100,
@@ -81,6 +90,7 @@
           },
           {
                "id": 2,
+               "category": "Bubble Kokteyller",
                "name": "Bubble Tea Hibiscus",
                "img": "assets/img/hibiscus.jpeg",
                "price": 100,
@@ -88,6 +98,7 @@
           },
           {
                "id": 3,
+               "category": "Bubble Kokteyller",
                "name": "Maria",
                "img": "assets/img/ormanMeyve.jpeg",
                "price": 100,
@@ -95,6 +106,7 @@
           },
           {
                "id": 4,
+               "category": "Bubble Kokteyller",
                "name": "Zombie",
                "img": "assets/img/yeşilElma.jpeg",
                "price": 100,
@@ -108,6 +120,7 @@
           "urunler": [
           {
                "id": 1,
+               "category": "Sıcak İçeekler",
                "name": "Bardak Çay",
                "img": "assets/img/cay.jpeg",
                "price": 25,
@@ -115,6 +128,7 @@
           },
           {
                "id": 2,
+               "category": "Sıcak İçeekler",
                "name": "Kupa Çay",
                "img": "assets/img/kupaCay.jpeg",
                "price": 45,
@@ -122,6 +136,7 @@
           },
           {
                "id": 3,
+               "category": "Sıcak İçeekler",
                "name": "Türk Kahvesi",
                "img": "assets/img/tk.jpeg",
                "price": 60,
@@ -129,6 +144,7 @@
           },
           {
                "id": 4,
+               "category": "Sıcak İçeekler",
                "name": "Dibek Kahvesi",
                "img": "assets/img/dibek.jpeg",
                "price": 65,
@@ -136,6 +152,7 @@
           },
           {
                "id": 5,
+               "category": "Sıcak İçeekler",
                "name": "Menengiç Kahvesi",
                "img": "assets/img/menengiç.jpeg",
                "price": 65,
@@ -143,6 +160,7 @@
           },
           {
                "id": 6,
+               "category": "Sıcak İçeekler",
                "name": "Damla Sakızlı Türk Kahvesi",
                "img": "assets/img/damlaSakızlı.jpeg",
                "price": 65,
@@ -150,6 +168,7 @@
           },
           {
                "id": 7,
+               "category": "Sıcak İçeekler",
                "name": "Sahlep",
                "img": "assets/img/sahlep.jpeg",
                "price": 75,
@@ -157,6 +176,7 @@
           },
           {
                "id": 8,
+               "category": "Sıcak İçeekler",
                "name": "Sıcak Çikolata",
                "img": "assets/img/sicakCikolata",
                "price": 80,
@@ -165,7 +185,4 @@
      ]
      }
     
-     
-     
-     
 ]
