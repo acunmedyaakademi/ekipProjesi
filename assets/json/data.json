@@ -2,20 +2,21 @@
      {
           "id": 1,
           "name": "TATLILAR",
+          "backgroundImg": "https://bufibu.com/qr/assets/system/images/2532676_quality3.webp",
           "urunler": [
                {
                     "id": 1,
                     "category": "Tatlılar",
                     "name":"Meyveli Gusto",
-                    "img":"assets/img/meyveliGusto.jpeg",
+                    "img":"https://bufibu.com/qr/assets/system/images/bufibucom7589629_quality5.webp",
                     "price": 170,
-                    "description": "magnolya kreması ve gusto bisküvisi çilek muz sütlü belçika çikolatası ve krep kırtığı"
+                    "description": "Magnolya kreması ve gusto bisküvisi çilek muz sütlü belçika çikolatası ve krep kırtığı"
                },
                {
                     "id": 2,
                     "category": "Tatlılar",
                     "name":"Dondurmalı Profiterol",
-                    "img":"assets/img/dondurmalıProfiterol.jpeg",
+                    "img":"https://bufibu.com/qr/assets/system/images/bufibucom7589629_quality5.webp",
                     "price": 170,
                     "description": "2 top profiterol içi krema yerine vanilyalı dondurma dolgulu ve sütlü belçika çikolatalı"
                },
@@ -23,17 +24,17 @@
                     "id": 3,
                     "category": "Tatlılar",
                     "name":"Çilekli Tart",
-                    "img":"assets/img/cilekliTart.jpeg",
+                    "img":"https://bufibu.com/qr/assets/system/images/bufibucom882302_quality5.webp",
                     "price": 145,
-                    "description": "tart kurabiyesi, no.11 kreması çilek ve belçika çikolatası"
+                    "description": "Tart kurabiyesi, no.11 kreması çilek ve belçika çikolatası"
                },
                {
                     "id": 4,
                     "category": "Tatlılar",
                     "name":"Firuze",
-                    "img":"assets/img/firuze.jpeg",
+                    "img":"https://bufibu.com/qr/assets/system/images/6287873_quality5.webp",
                     "price": 150,
-                    "description": "antep fıstıklı kek, karamel sos ve belçika çikolatalı mousse"
+                    "description": "Antep fıstıklı kek, karamel sos ve belçika çikolatalı mousse"
                }
           ]
          
@@ -41,146 +42,149 @@
      {
           "id": 2,
           "name": "SOĞUK KAHVELER",
+          "backgroundImg": "https://bufibu.com/qr/assets/system/images/bufibucom3097388_quality3.webp",
           "urunler": [
                {
                     "id": 1,
                     "category": "Soğuk Kahveler",
                     "name": "Ice Filtre Kahve",
-                    "img": "assets/img/filtreKahve.jpeg",
+                    "img": "https://bufibu.com/qr/assets/system/images/bufibucom2978092_quality5.webp",
                     "price": 90,
-                    "description": "özel demlenmiş natural filtre kahve ve bol miktarda buz"
+                    "description": "Özel demlenmiş natural filtre kahve ve bol miktarda buz"
                },
                {
                     "id": 2,
                     "category": "Soğuk Kahveler",
                     "name": "Ice Americano",
-                    "img": "assets/img/iceAmericano.jpeg",
+                    "img": "https://bufibu.com/qr/assets/system/images/6544698_quality5.webp",
                     "price": 95,
-                    "description": "isteğe göre single veya double espresso, su ve bol miktarda buz"
+                    "description": "İsteğe göre single veya double espresso, su ve bol miktarda buz"
                },
                {
                     "id": 3,
                     "category": "Soğuk Kahveler",
                     "name": "Ice Latte",
-                    "img": "assets/img/iceLatte.jpeg",
+                    "img": "https://bufibu.com/qr/assets/system/images/bufibucom9261669_quality5.webp",
                     "price": 100,
-                    "description": "isteğe göre single veya double espresso, süt ve bol miktarda buz"
+                    "description": "İsteğe göre single veya double espresso, süt ve bol miktarda buz"
                },
                {
                     "id": 4,
                     "category": "Soğuk Kahveler",
                     "name": "Affogato",
-                    "img": "assets/img/affogato.jpeg",
+                    "img": "https://bufibu.com/qr/assets/system/images/8631020_quality5.webp",
                     "price": 95,
-                    "description": "isteğe göre single veya double espresso üzerine isteğe göre 1 top dondurma"
+                    "description": "İteğe göre single veya double espresso üzerine isteğe göre 1 top dondurma"
                }
           ]
      },
      {
           "id": 3,
           "name": "BUBBLE KOKTEYLLER",
+          "backgroundImg": "https://bufibu.com/qr/assets/system/images/491555_quality3.webp",
           "urunler": [
           {
                "id": 1,
                "category": "Bubble Kokteyller",
                "name": "Galaxy",
-               "img": "assets/img/galaxy.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/1125367_quality5.webp",
                "price": 100,
-               "description":"yaban mersin aromalı"
+               "description":"Yaban mersin aromalı"
           },
           {
                "id": 2,
                "category": "Bubble Kokteyller",
                "name": "Bubble Tea Hibiscus",
-               "img": "assets/img/hibiscus.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/1265971_quality5.webp",
                "price": 100,
-               "description":"hibiscus aromalı"
+               "description":"Hibiscus aromalı"
           },
           {
                "id": 3,
                "category": "Bubble Kokteyller",
                "name": "Maria",
-               "img": "assets/img/ormanMeyve.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/7809477_quality5.webp",
                "price": 100,
-               "description":"orman meyve aromalı"
+               "description":"Orman meyve aromalı"
           },
           {
                "id": 4,
                "category": "Bubble Kokteyller",
                "name": "Zombie",
-               "img": "assets/img/yeşilElma.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/7991904_quality5.webp",
                "price": 100,
-               "description":"yeşil elma aromalı"
+               "description":"Yeşil elma aromalı"
           }
      ]
      },
      {
           "id": 4,
           "name": "SICAK İÇECEKLER",
+          "backgroundImg": "https://bufibu.com/qr/assets/system/images/884_quality3.webp",
           "urunler": [
           {
                "id": 1,
                "category": "Sıcak İçeekler",
                "name": "Bardak Çay",
-               "img": "assets/img/cay.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/bufibucom7086577_quality5.webp",
                "price": 25,
-               "description":"meşhur rize çayıyla demlenen siyah demlik çay"
+               "description":"Meşhur rize çayıyla demlenen siyah demlik çay"
           },
           {
                "id": 2,
                "category": "Sıcak İçeekler",
                "name": "Kupa Çay",
-               "img": "assets/img/kupaCay.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/5271_quality5.webp",
                "price": 45,
-               "description":"meşhur rize çayıyla demlenen siyah demlik çay"
+               "description":"Meşhur rize çayıyla demlenen siyah demlik çay"
           },
           {
                "id": 3,
                "category": "Sıcak İçeekler",
                "name": "Türk Kahvesi",
-               "img": "assets/img/tk.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/qrbufibu2825_quality5.webp",
                "price": 60,
-               "description":"eşsiz lezzetiyle "
+               "description":"Eşsiz lezzetiyle "
           },
           {
                "id": 4,
                "category": "Sıcak İçeekler",
                "name": "Dibek Kahvesi",
-               "img": "assets/img/dibek.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/8674947_quality5.webp",
                "price": 65,
-               "description":"kendine has tadı ve aromasıyla"
+               "description":"Kendine has tadı ve aromasıyla"
           },
           {
                "id": 5,
                "category": "Sıcak İçeekler",
                "name": "Menengiç Kahvesi",
-               "img": "assets/img/menengiç.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/3428825_quality5.webp",
                "price": 65,
-               "description":"menengiç çekirdeklerinin vurucu lezzeti ile"
+               "description":"Menengiç çekirdeklerinin vurucu lezzeti ile"
           },
           {
                "id": 6,
                "category": "Sıcak İçeekler",
                "name": "Damla Sakızlı Türk Kahvesi",
-               "img": "assets/img/damlaSakızlı.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/5017_quality5.webp",
                "price": 65,
-               "description":"damla sakızı severlere özel"
+               "description":"Damla sakızı severlere özel"
           },
           {
                "id": 7,
                "category": "Sıcak İçeekler",
                "name": "Sahlep",
-               "img": "assets/img/sahlep.jpeg",
+               "img": "https://bufibu.com/qr/assets/system/images/bufibucom2538_quality5.webp",
                "price": 75,
-               "description":"gerçek süt ile tam kıvamında"
+               "description":"Gerçek süt ile tam kıvamında"
           },
           {
                "id": 8,
                "category": "Sıcak İçeekler",
                "name": "Sıcak Çikolata",
-               "img": "assets/img/sicakCikolata",
+               "img": "https://bufibu.com/qr/assets/system/images/7641_quality5.webp",
                "price": 80,
-               "description":"belçika çikolatası ile orjinal kıvam"
+               "description":"Belçika çikolatası ile orjinal kıvam"
           }
      ]
      }
