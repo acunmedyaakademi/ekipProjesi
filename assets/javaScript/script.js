@@ -17,9 +17,7 @@ async function printItem(){
             <details class="details">
                 <summary class="summary">
                     <img src="${category.backgroundImg}" alt="" class="img">
-                    <div class="deneme">
-                        <h2 class="header-h2 ">${category.name}</h2>
-                    <div>
+                    <h2 class="header-h2 ">${category.name}</h2>
                 </summary>          
                 ${category.urunler.map(urun => 
                     `
